@@ -1,0 +1,29 @@
+strong{
+
+  color:red;
+}
+<style>
+body {
+  font-size:50px;
+ }
+                 
+em strong {
+    color: #FF0000;
+}strong{
+
+  color:red;
+}
+<style>
+body {
+  font-size:50px;
+ }
+                 
+em strong {
+    color: #FF0000;
+}
+p {
+  font-variant:"small-caps", sans-serif
+}                                                 
+p {
+  font-variant:"small-caps", sans-serif
+}                                                 
